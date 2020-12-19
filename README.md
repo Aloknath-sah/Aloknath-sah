@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi there 👋 
+I am Aloknath Sah from Odisha, India. I have skilled in Full Stack Web Development, MERN and Javascript.
 
 <!--
 **Aloknath-sah/Aloknath-sah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About Me
+* I hold B.Tech degree and aspire to work as a Web Developer.
+* I am fast learner looking for interesting career opportunity in web development.
+
+### Interests
+* I like to learn new things through browsing and reading blogs.
+
+### 📫How can you reach me
+connect with me on [twitter](https://twitter.com/sah_aloknath) or [linkedIn](https://www.linkedin.com/in/aloknath-sah-479509161).
+
+### Want to see my work
+You can find my work in my [portfolio](https://aloknath-sah.github.io).
