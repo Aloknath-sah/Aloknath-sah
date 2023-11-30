@@ -1,5 +1,5 @@
 # Hi there 👋 
-I am Aloknath Sah from Odisha, India. I have skilled in Full Stack Web Development, MERN and Javascript.
+I am Aloknath Sah from Odisha, India. I have skilled in Full Stack Web Development, MERN, React Native and Javascript.
 
 <!--
 **Aloknath-sah/Aloknath-sah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
