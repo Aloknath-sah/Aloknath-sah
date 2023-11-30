@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ### About Me
-* I hold B.Tech degree and currently working as a software Developer(SDE-1) at Ajio.com.
+* I hold B.Tech degree and worked for 2 years as a software Developer(SDE-1) in UI at Ajio.com.
 * I am fast learner looking for interesting career opportunity in web development.
 
 ### Interests
