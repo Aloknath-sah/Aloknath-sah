@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 * I like to learn new things through browsing and reading blogs.
 
 ### 📫How can you reach me
-connect with me on [twitter](https://twitter.com/sah_aloknath) or [linkedIn](https://www.linkedin.com/in/aloknath-sah-479509161).
+connect with me on [linkedIn](https://www.linkedin.com/in/aloknath-sah-479509161).
 
 ### Want to see my work
 You can find my work in my [portfolio](https://aloknath-sah.github.io).
