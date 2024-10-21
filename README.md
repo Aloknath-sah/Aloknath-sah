@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 * I hold B.Tech degree and have almost 3 years as a Frontend Web Developer.
 
 ### Interests
-* I am more interested in Stock Market and Fitness.
+* I am interested in Fitness and code.
 
 ### 📫How can you reach me
 connect with me on [linkedIn](https://www.linkedin.com/in/aloknath-sah-479509161).
