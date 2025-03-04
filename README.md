@@ -1,5 +1,5 @@
 # Hi there 👋 
-I am Aloknath Sah from Odisha, India. I have skilled in Web Development with tech stacks like HTML, CSS, JavaScript, React, Redux, and React Native.
+I am Aloknath Sah from Odisha, India. I have skills in Web Development with tech stacks like HTML, CSS, JavaScript, React, Redux, Node.js, and React Native.
 
 <!--
 **Aloknath-sah/Aloknath-sah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 -->
 
 ### About Me
-* I hold B.Tech degree and have almost 3 years as a Frontend Web Developer.
+* I hold B.Tech degree and have more than 3.5 years of experience as a Frontend Web Developer.
 
 ### Interests
-* I am interested in Fitness and code.
+* I have lot of interest in Fitness and coding.
 
 ### 📫How can you reach me
 connect with me on [linkedIn](https://www.linkedin.com/in/aloknath-sah-479509161).
