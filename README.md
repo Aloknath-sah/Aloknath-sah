@@ -1,6 +1,7 @@
-# Hi there 👋 
-I am Aloknath Sah from Odisha, India. I have skills in Web Development with tech stacks like HTML, CSS, JavaScript, React, Redux, Node.js, and React Native.
+# Hi there 👋 I'm Aloknath Sah!
+Frontend Developer | React.js | JavaScript | Node.js | Redux | Web Performance
 
+I am a passionate front-end developer based in Bangalore, India, with 3.5+ years of experience in building modern, scalable, and high-performance web applications. I specialize in React.js, JavaScript, Redux, Node.js, and React Native, crafting intuitive and user-friendly UI experiences.
 <!--
 **Aloknath-sah/Aloknath-sah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,10 +18,22 @@ Here are some ideas to get you started:
 -->
 
 ### About Me
-* I hold B.Tech degree and have more than 3.5 years of experience as a Frontend Web Developer.
+* 🎓 B.Tech Graduate with a strong foundation in web technologies.
+* 💻 Experienced in frontend performance optimization, state management, and UI/UX best practices.
+* 🌱 Constantly learning new frameworks, tools, and best practices to enhance development efficiency.
+* 🏋️‍♂️ Passionate about fitness, coding, and solving real-world problems with technology.
+* 🛠️ Love to collaborate with like-minded developers.
 
-### Interests
-* I have lot of interest in Fitness and coding.
+### Tech Stacks and Skills
+* Frontend: React.js, Next.js, Redux, Tailwind CSS, HTML5, CSS3, JavaScript (ES6+).
+* Backend: Node.js, Express.js, REST APIs, GraphQL.
+* Tools & Platforms: Git, GitHub, Webpack, Postman, CI/CD Pipelines.
+* Testing: Jest, React Testing Library, Cypress.
+
+### 💡 What I'm Currently Working On
+* Exploring TypeScript & micro frontend architecture for modular development.
+* Enhancing React performance optimization techniques.
+* Learning High-Level Design (HLD) principles to design efficient, scalable, and maintainable systems.
 
 ### 📫How can you reach me
 connect with me on [linkedIn](https://www.linkedin.com/in/aloknath-sah-479509161).
