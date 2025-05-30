@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Aloknath Sah!
-Frontend Developer | React.js | JavaScript | Node.js | Redux | Web Performance
+Full Stack Developer | React.js | JavaScript | Node.js | Redux | Web Performance
 
-I am a passionate front-end developer based in Bangalore, India, with 3.5+ years of experience in building modern, scalable, and high-performance web applications. I specialize in React.js, JavaScript, Redux, Node.js, and React Native, crafting intuitive and user-friendly UI experiences.
+I am a passionate Full Stack Developer based in Bangalore, India, with 3.5+ years of experience in building modern, scalable, and high-performance web applications. I specialize in React.js, JavaScript, Redux, Node.js, and React Native, crafting intuitive and user-friendly UI experiences.
 <!--
 **Aloknath-sah/Aloknath-sah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
