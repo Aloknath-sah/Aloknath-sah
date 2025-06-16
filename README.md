@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Aloknath Sah!
-Full Stack Developer | React.js | JavaScript | Node.js | Redux | Web Performance
+Full Stack Developer | React.js | JavaScript | Node.js | Java | Web Performance
 
-I am a passionate Full Stack Developer based in Bangalore, India, with 3.5+ years of experience in building modern, scalable, and high-performance web applications. I specialize in React.js, JavaScript, Redux, Node.js, and React Native, crafting intuitive and user-friendly UI experiences.
+I am a passionate Full Stack Developer based in Bangalore, India, with 4 years of experience in building modern, scalable, and high-performance web applications. I specialize in React.js, JavaScript, Redux, Node.js, and Java, crafting intuitive and user-friendly UI experiences.
 <!--
 **Aloknath-sah/Aloknath-sah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 
 ### About Me
 * 🎓 B.Tech Graduate with a strong foundation in web technologies.
-* 💻 Experienced in frontend performance optimization, state management, and UI/UX best practices.
+* 💻 Experienced in frontend performance optimization, state management, Java backened and UI/UX best practices.
 * 🌱 Constantly learning new frameworks, tools, and best practices to enhance development efficiency.
 * 🏋️‍♂️ Passionate about fitness, coding, and solving real-world problems with technology.
 * 🛠️ Love to collaborate with like-minded developers.
 
 ### Tech Stacks and Skills
-* Frontend: React.js, Next.js, Redux, Tailwind CSS, HTML5, CSS3, JavaScript (ES6+).
-* Backend: Node.js, Express.js, REST APIs, GraphQL.
+* Frontend: React.js, Redux, Tailwind CSS, HTML5, CSS3, JavaScript (ES6+).
+* Backend: Node.js, REST APIs, Java.
 * Tools & Platforms: Git, GitHub, Webpack, Postman, CI/CD Pipelines.
 * Testing: Jest, React Testing Library, Cypress.
 
